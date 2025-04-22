@@ -1,9 +1,9 @@
 ---
 
 ## DevOps Lab 3 – Submodules  
-- [https://github.com/shriradhey-mishra/repo1.git]  
-- [https://github.com/shriradhey-mishra/repo2.git]  
-- [https://github.com/shriradhey-mishra/repo3.git]
+[https://github.com/shriradhey-mishra/repo1.git]  
+[https://github.com/shriradhey-mishra/repo2.git]  
+[https://github.com/shriradhey-mishra/repo3.git]
 
 In this lab we performed and understood the working and the use of git submodules.
 
